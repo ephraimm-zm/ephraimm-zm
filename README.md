@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Ephraim :)
 
-<!--
-**ephraimm-zm/ephraimm-zm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://www.codewars.com/users/ephraimm-zm/badges/large
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on ... getting my degree in Software Engineering from The African Leadership University.
+- 🌱 I’m currently learning ... C# and .NET
+- 👯 I’m looking to collaborate on ... Data Structures & Algorithms
+- 🤔 I’m looking for help with ... Distributed Systems
+- 💬 Ask me about ... GTA San Andreas
+- 📫 How to reach me: ... e.mulilo1@alustudent.com
+- 😄 Pronouns: ... The One
+- ⚡ Fun fact: ... I love Formula 1
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
