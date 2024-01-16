@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ephraim :)
 
-https://www.codewars.com/users/ephraimm-zm/badges/large
+![Ephraim_Codewars_badge]([http://url/to/img.png](https://www.codewars.com/users/ephraimm-zm/badges/large))
 
 - 🔭 I’m currently working on ... getting my degree in Software Engineering from The African Leadership University.
 - 🌱 I’m currently learning ... C# and .NET
