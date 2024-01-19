@@ -6,5 +6,5 @@
 - 🌱 I’m currently learning ... Linux & IT Tools
 - 📫 How to reach me: ... e.mulilo1@alustudent.com
 - 😄 Pronouns: ... The One
-- ⚡ Fun fact: ...  box box means
+- ⚡ Fun fact: ...  box box means stop in F1
 
