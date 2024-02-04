@@ -5,6 +5,5 @@
 - 🔭 I’m currently working on ... getting my degree in Software Engineering from The African Leadership University.
 - 🌱 I’m currently learning ... Linux & IT Tools
 - 📫 How to reach me: ... e.mulilo1@alustudent.com
-- 😄 Pronouns: ... The One
 - ⚡ Fun fact: ...  box box means stop in F1
 
