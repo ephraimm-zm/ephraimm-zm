@@ -7,3 +7,8 @@
 - 📫 How to reach me: ... e.mulilo1@alustudent.com
 - ⚡ Fun fact: ...  box box means stop in F1
 
+### Notable Repos
+
+- [alu-zero-day](https://github.com/ephraimm-zm/alu-zero_day) - Intro to Git, Github and Bash
+- [alu-shell](https://github.com/ephraimm-zm/alu-shell) - Programming in Shell
+- [alu-higher-level-programming](https://github.com/ephraimm-zm/alu-higher_level_programming) - Programming using high level programming languages.
