@@ -12,3 +12,4 @@
 - [alu-zero-day](https://github.com/ephraimm-zm/alu-zero_day) - Intro to Git, Github and Bash
 - [alu-shell](https://github.com/ephraimm-zm/alu-shell) - Programming in Shell
 - [alu-higher-level-programming](https://github.com/ephraimm-zm/alu-higher_level_programming) - Programming in high level languages.
+- [alu-scripting](https://github.com/ephraimm-zm/alu-scripting) - For projects at ALU focuse on scripting
